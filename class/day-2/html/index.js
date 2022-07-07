@@ -1,4 +1,3 @@
-function submitform(e)(
+function submitform(e){
 
-
-)
+}
